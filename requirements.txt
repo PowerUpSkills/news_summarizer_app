@@ -1,0 +1,7 @@
+streamlit
+requests
+transformers
+datasets
+torch
+python-dotenv
+wikipedia
